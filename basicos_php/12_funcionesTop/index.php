@@ -40,7 +40,7 @@ echo devuelveNombre('Jorge Fernández');
 
 echo '<hr>';
 /*
- * CALCULADORA TOP RETURN BIEN
+ * CALCULADORA TOP RETURN BIEN con parámetro "negrita" no obligatorio
  */
 
 function calculadoraReturn($numero1, $numero2, $negrita = false) {
